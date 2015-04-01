@@ -16,8 +16,12 @@ I have currently completed the following flags:
 These flags need to be created:
 
 * The Soviet Union
+?  The German Democratic Republic
 * The Hungarian People's Republic
 * The Socialist Republic of Romania
+##Emblems
+The only emblems I currently have are: 
+* People's Republic of Albania
 #License
 The icons and images part of **OpenWarsawPactIcons** are released into the Public Domain upon upload. The authors of these icons thereby abandon all rights to their icons by being apart of **OpenWarsawPactIcons**.
 
