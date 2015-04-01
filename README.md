@@ -11,18 +11,23 @@ I have currently completed the following flags:
 
 * Polish People's Republic
 * Czechoslovak Socialist Republic
-* People's Republic of Albania (though this one could use some touching up.)
+* People's Republic of Albania
 
 These flags need to be created:
 
 * The Soviet Union
-?  The German Democratic Republic
+* The German Democratic Republic
 * The Hungarian People's Republic
 * The Socialist Republic of Romania
+
 ##Emblems
 The only emblems I currently have are: 
 * People's Republic of Albania
+
 #License
+
+The flag template flag.svg comes from [Sébastien Desbenoit's](http://desbenoit.net/) Public Domain project, [Flags of the World](https://thenounproject.com/desbenoit/collection/flags-of-the-world/).
+
 The icons and images part of **OpenWarsawPactIcons** are released into the Public Domain upon upload. The authors of these icons thereby abandon all rights to their icons by being apart of **OpenWarsawPactIcons**.
 
-That being said, we'd love if you would include a small bit of credit, though none is necessary.
+That being said, we'd love if you would include a small bit of credit, though none is necessary. ?
