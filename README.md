@@ -23,7 +23,6 @@ These flags need to be created:
 ##Emblems
 The only emblems I currently have are: 
 * The People's Republic of Albania
-* The Union of Soviet Socialist Republics (This one needs cleaning up on its inscriptions)
 
 #License
 
