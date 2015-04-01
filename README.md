@@ -9,20 +9,21 @@ I'm unsure of categories should be created, but at the moment I have started wit
 ##Flags
 I have currently completed the following flags:
 
-* Polish People's Republic
-* Czechoslovak Socialist Republic
-* People's Republic of Albania
+* The Polish People's Republic
+* The Czechoslovak Socialist Republic
+* The People's Republic of Albania
+* The Union of Soviet Socialist Republics
+* The Hungarian People's Republic
 
 These flags need to be created:
 
-* The Soviet Union
 * The German Democratic Republic
-* The Hungarian People's Republic
 * The Socialist Republic of Romania
 
 ##Emblems
 The only emblems I currently have are: 
-* People's Republic of Albania
+* The People's Republic of Albania
+* The Union of Soviet Socialist Republics (This one needs cleaning up on its inscriptions)
 
 #License
 
