@@ -23,3 +23,5 @@ Green: #009A49
 Navy: #1D4179
 
 Light Blue: #87CEEB
+
+Dark Brown (Mainly used in outlining): #B47800
