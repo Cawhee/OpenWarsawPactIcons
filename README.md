@@ -7,27 +7,32 @@ Therefore, in my love of history and of creating svg flags, **OpenWarsawPactIcon
 #Categories
 I'm unsure of categories should be created, but at the moment I have started with flags. Perhaps we should move on to maps & emblems as each state caries a nice looking emblem.
 ##Flags
-I have currently completed the following flags:
+Flags of Warsaw Pact Member States that need to be completed:
 
-* The Polish People's Republic
-* The Czechoslovak Socialist Republic
-* The People's Republic of Albania
-* The Union of Soviet Socialist Republics
-* The Hungarian People's Republic
-
-These flags need to be created:
-
-* The German Democratic Republic
-* The Socialist Republic of Romania
+- [x] The Polish People's Republic
+- [x] The Czechoslovak Socialist Republic
+- [x] The People's Republic of Albania
+- [x] The Union of Soviet Socialist Republics
+- [x] The Hungarian People's Republic
+- [ ] The German Democratic Republic
+- [ ] The Socialist Republic of Romania
 
 ##Emblems
-The only emblems I currently have are: 
-* The People's Republic of Albania
+Emblems of Warsaw Pact Member States that need to be completed:
+
+- [x] The People's Republic of Albania
+- [ ] **The Warsaw Pact**
+- [ ] The Czechoslovak Socialist Republic
+- [ ] The People's Republic of Albania
+- [ ] The Union of Soviet Socialist Republics
+- [ ] The Hungarian People's Republic
+- [ ] The German Democratic Republic
+- [ ] The Socialist Republic of Romania
 
 #License
 
 The flag template flag.svg comes from [Sébastien Desbenoit's](http://desbenoit.net/) Public Domain project, [Flags of the World](https://thenounproject.com/desbenoit/collection/flags-of-the-world/).
 
-The icons and images part of **OpenWarsawPactIcons** are released into the Public Domain upon upload. The authors of these icons thereby abandon all rights to their icons by being apart of **OpenWarsawPactIcons**.
+The icons and images part of **OpenWarsawPactIcons** are released into the Public Domain upon upload. The authors of these icons thereby abandon all rights to their works by being apart of **OpenWarsawPactIcons**.
 
-That being said, we'd love if you would include a small bit of credit, though none is necessary. ?
+That being said, we'd love if you would include a small bit of credit, though none is necessary. :heart:
