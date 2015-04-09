@@ -14,20 +14,19 @@ Flags of Warsaw Pact Member States that need to be completed:
 - [x] The People's Republic of Albania
 - [x] The Union of Soviet Socialist Republics
 - [x] The Hungarian People's Republic
+- [x] The Socialist Republic of Romania
 - [ ] The German Democratic Republic
-- [ ] The Socialist Republic of Romania
 
 ##Emblems
 Emblems of Warsaw Pact Member States that need to be completed:
 
 - [x] The People's Republic of Albania
+- [x] The Czechoslovak Socialist Republic
+- [x] The Socialist Republic of Romania
 - [ ] **The Warsaw Pact**
-- [ ] The Czechoslovak Socialist Republic
-- [ ] The People's Republic of Albania
 - [ ] The Union of Soviet Socialist Republics
 - [ ] The Hungarian People's Republic
 - [ ] The German Democratic Republic
-- [ ] The Socialist Republic of Romania
 
 #License
 

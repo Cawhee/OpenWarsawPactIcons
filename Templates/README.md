@@ -4,7 +4,7 @@ Though it is not required to use the templates provided, it is recommended in or
 The required dimensions for flags are 100px by 100px.
 ## Emblems
 
-The required dimensions for flags are 350px by 350px.
+The required dimensions for emblems are 350px by 350px.
 
 ## Colors
 
